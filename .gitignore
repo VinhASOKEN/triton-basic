@@ -1,4 +1,0 @@
-*.onnx
-/__pycache__
-/venv
-!.gitkeep
